@@ -12,13 +12,6 @@ The rules are numbered from 0 to 255, based on the Wolfram numbering system. Rul
 
 The output of each rule is a visual representation of the evolution of the cellular automaton over time. Each row in the output corresponds to a generation, and each cell in a row represents the state of a cell in the automaton at that generation. This repository, within the ["all rules"](./all%20rules) folder, showcases the visual output for each of the 256 rules.
 
-<div style="display: flex; flex-direction: row;">
-    <div>
-        <h3>Rule-18 Output</h3>
-        <img src="./all%20rules/rule18.png" alt="Rule-18 Output" style="max-width: 100%;">
-    </div>
-    <div style="margin-left: 10px;">
-        <h3>Rule-86 Output</h3>
-        <img src="./all%20rules/rule86.png" alt="Rule-86 Output" style="max-width: 100%;">
-    </div>
-</div>
+| <span style="font-size:18px">Rule-18 Output</span> | <span span style="font-size:18px">Rule-86 Output</span> |
+| :------------------------------------------------: | :-----------------------------------------------------: |
+|    ![Rule-18 Output](./all%20rules/rule18.png)     |       ![Rule-86 Output](./all%20rules/rule86.png)       |

@@ -9,3 +9,9 @@ The game is played on a grid of cells, where each cell can be either alive or de
 1. Birth: A dead cell with exactly three live neighbors becomes a live cell (comes to life) in the next generation.
 2. Survival: A live cell with two or three live neighbors remains alive in the next generation.
 3. Death: A live cell with fewer than two live neighbors dies (underpopulation) or with more than three live neighbors dies (overpopulation) in the next generation.
+
+## Demo
+
+Here is a GIF demonstrating the Conway's Game of Life simulation:
+
+![Game of Life Demo](./GoL.gif)
