@@ -19,4 +19,4 @@ This simulation explores the fascinating connection between Fourier transforms a
 
 ## Demo
 
-![Fourier Transform Simulation Demo](FT_dragon.gif)
+![Fourier Transform Simulation Demo](./FT_dragon.gif)
